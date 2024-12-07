@@ -60,3 +60,7 @@ Vector3.Lerp(currentCube.transform.position, lastCube.transform. position, 0.5f)
 }
 }
 }
+
+
+
+// i added code here !!!
